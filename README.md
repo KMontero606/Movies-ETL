@@ -350,4 +350,4 @@ ratings_file = f'{file_dir}/ratings.csv'
 extract_transform_load()
 ```
 # Summary:
-Majority of the code was already written through the module lesson and the only challenging part is refactoring some of the code so when put together, the code works smoothly. I came across a disk full error during importing the data to SQL database which was mitigated by clearing up disk space. This  
+Majority of the code was already written through the module lesson and the only challenging part is refactoring some of the code so when put together, the code works smoothly. I came across a disk full error during importing the data to SQL database which was mitigated by clearing up disk space. This module was challenging as it requires attention to detail as errors are encountered such as indentation error, name error, etc.  
